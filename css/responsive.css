@@ -1,0 +1,71 @@
+@media only screen and (max-width: 768px) {
+	.notifyMainDiv {
+		min-height: 290px;
+		width: 90%;
+	}
+	.notify-user-icon {
+		height: 80px;
+		width: 80px;
+		left: -16px;
+		top: 17px;
+	}
+	.deskspace {
+		display: none;
+	}
+	.copyright {
+		font-size: 14px;
+	}
+	.brand img {
+		margin-left: 0px;		
+    width: 100px;
+	}
+	.nav-heading {
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.fa-bars {
+		font-size: 30px;
+		margin-top: 10px;
+    }
+    .uploadsection{    margin-top: 20px;}
+    #accordion{margin-top: 20px;}
+	.list {
+    margin-top: 35px !important;
+}
+.hrpoicydiv>.col-xs-6 img {width:100%;}
+	.hrpoicydiv>.col-xs-6 h4{font-size: 12px;}
+.nav .list>li>a{    padding: 0 10px 0px 50px;}
+.user-icon {
+    width: 165px;
+height: 165px;}
+h3{font-size: 20px;}
+.hrpolicy h4{font-size:14px;}
+.companypost{font-size:14px;}
+.panel-title{font-size:14px;}
+.panel-body>div>.col-para{    padding: 0px;}
+.panel-body>div>.col-para img{    width: 100%;}
+.panel-body>div>.col-xs-8 {    padding: 0px 7px;
+    font-size: 10px;}
+.birthpostbtn{font-size: 10px;
+    padding: 2px 5px;}	
+	.list-group-item {
+    padding: 13px 15px;
+    font-size: 14px;
+}
+.hrpoicydiv>.redh4{font-size: 14px;}
+.hrpoicydiv>div>.col-para	{    padding: 0px;}
+.hrpoicydiv>div>.col-xs-8	{    padding: 0px 0px 0px 10px;}
+.redanchor {
+    color: #b42330;
+    font-size: 12px;
+    margin-left: -4px;
+}
+}
+@media only screen and (max-width: 1024px) {
+	.brand img {
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.list {margin-top: 35px;}
+}
